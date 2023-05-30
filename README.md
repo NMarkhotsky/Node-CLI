@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-- [List](https://ibb.co/V3H8V87)
+- [List](https://ibb.co/2MmgXvc)
 - [Get](https://ibb.co/nmQDfSG)
 - [Add](https://ibb.co/TBSkprH)
 - [Remove](https://ibb.co/L6QBZ2P)
